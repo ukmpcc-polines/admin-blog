@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "namassist",
+      "api_key": "938963696567781",
+      "api_secret": "q6Rdp_oNDzY8LLuqpomSxmhp-rE"
+    }
+}
